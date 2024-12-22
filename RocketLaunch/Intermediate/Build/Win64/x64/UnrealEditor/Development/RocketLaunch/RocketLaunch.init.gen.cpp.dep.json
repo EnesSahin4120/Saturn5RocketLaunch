@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\unrealeditor\\inc\\rocketlaunch\\uht\\rocketlaunch.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\x64\\rocketlauncheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rocketlaunch\\definitions.rocketlaunch.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

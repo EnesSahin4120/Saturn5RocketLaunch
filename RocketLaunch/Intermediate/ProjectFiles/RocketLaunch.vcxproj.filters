@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RocketLaunch.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RocketLaunch.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RocketLaunchEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RocketLaunch">
+      <UniqueIdentifier>{A217CA09-8663-3A6A-BF16-C676194661E6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RocketLaunch\Atmosphere.cpp">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocketLaunch\Atmosphere.h">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RocketLaunch\Rocket.cpp">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocketLaunch\Rocket.h">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RocketLaunch\RocketHUD.cpp">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocketLaunch\RocketHUD.h">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RocketLaunch\RocketLaunch.Build.cs">
+      <Filter>Source\RocketLaunch</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RocketLaunch\RocketLaunch.cpp">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocketLaunch\RocketLaunch.h">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RocketLaunch\RocketSimulator.cpp">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RocketLaunch\RocketSimulator.h">
+      <Filter>Source\RocketLaunch</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

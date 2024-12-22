@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RocketLaunch",
+			"Path": "..\\Source\\RocketLaunch.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RocketLaunchEditor",
+			"Path": "..\\Source\\RocketLaunchEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

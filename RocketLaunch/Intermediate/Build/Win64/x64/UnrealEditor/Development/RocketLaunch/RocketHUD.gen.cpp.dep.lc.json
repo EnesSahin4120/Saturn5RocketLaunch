@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\unrealeditor\\inc\\rocketlaunch\\uht\\rockethud.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\x64\\rocketlauncheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rocketlaunch\\definitions.rocketlaunch.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\source\\rocketlaunch\\rockethud.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\source\\rocketlaunch\\rocketsimulator.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\source\\rocketlaunch\\rocket.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\source\\rocketlaunch\\atmosphere.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\unrealeditor\\inc\\rocketlaunch\\uht\\atmosphere.generated.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\unrealeditor\\inc\\rocketlaunch\\uht\\rocket.generated.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\unrealeditor\\inc\\rocketlaunch\\uht\\rocketsimulator.generated.h",
+            "c:\\users\\msi-nb\\desktop\\new\\rocketlaunch\\intermediate\\build\\win64\\unrealeditor\\inc\\rocketlaunch\\uht\\rockethud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
